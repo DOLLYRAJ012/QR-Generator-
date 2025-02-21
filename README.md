@@ -2,7 +2,8 @@ QR Code Generator
 
 🔗 Google Colab Link
 
-Google Colab Notebook
+[Open in Google Colab](https://colab.research.google.com/drive/1WN9GBOrycKPoP7j3hmM3TiEQMDqy4fKd?usp=sharing)
+
 
 
 📌 Overview
