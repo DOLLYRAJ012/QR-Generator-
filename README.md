@@ -32,3 +32,5 @@ error_correction=qrcode.constants.ERROR_CORRECT_H,
 box_size=15, border=10,)
 
 img.save("YouTube.png")
+
+![QR Code](Youtube.png)
